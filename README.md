@@ -2,7 +2,7 @@
 
 一个使用 HTML5、CSS3 和 JavaScript 开发的现代化俄罗斯方块游戏。
 
-![游戏截图](screenshots/game.png)
+![游戏截图](https://github.com/Doitky/tetris-game/blob/main/screenshots/tetris-game.png)
 
 ## 游戏特点
 
@@ -57,7 +57,7 @@
 
 1. 克隆本仓库
 ```
-git clone https://github.com/yourusername/tetris-game.git
+git clone https://github.com/Doitky/tetris-game.git
 ```
 
 2. 使用浏览器打开 `index.html` 文件
@@ -86,7 +86,7 @@ MIT
 
 ## 作者
 
-[您的名字]
+Doitky
 
 ---
 
